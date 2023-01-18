@@ -1,0 +1,10 @@
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\bin\Debug\Do You Want Exit.exe.config
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\bin\Debug\Do You Want Exit.exe
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\bin\Debug\Do You Want Exit.pdb
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\obj\Debug\Do You Want Exit.csprojAssemblyReference.cache
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\obj\Debug\Do_You_Want_Exit.Form1.resources
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\obj\Debug\Do_You_Want_Exit.Properties.Resources.resources
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\obj\Debug\Do You Want Exit.csproj.GenerateResource.cache
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\obj\Debug\Do You Want Exit.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\obj\Debug\Do You Want Exit.exe
+C:\Users\Mahan\source\repos\Do You Want Exit\Do You Want Exit\obj\Debug\Do You Want Exit.pdb
